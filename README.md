@@ -42,6 +42,9 @@ This project aims to provide comprehensive business intelligence solutions for a
 - Operational Efficiency: Improve operational efficiency in terms of scheduling, capacity planning, and resource allocation.
 - Competitive Advantage: Provide a competitive advantage by identifying new opportunities and trends in the market.
 
+[Shcema](image.png)
+
+
 ## Implementation
 The data marts were built by implementing four steps:
 1. Define Business Processes: Identified key business processes such as flight activity, reservation management, customer care interactions, frequent flyer programs, and hotel stay services.
@@ -50,7 +53,7 @@ The data marts were built by implementing four steps:
 4. Define Facts: Designed fact tables to capture key metrics and attributes for analysis and reporting purposes.
 
 ## Documentation
-[Documentation.pdf]
+- [Documentation](Documentation.pdf)
 
 
 ## Conclusion
