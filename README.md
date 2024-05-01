@@ -11,11 +11,17 @@ This project aims to provide comprehensive business intelligence solutions for a
 - **Dimensions**: Flights, aircraft, passengers, time, booking channels.
 - **Facts**: Reservation details including date, time, passenger, aircraft, class, airport, ticket, channel, passenger profile, promotion, fare bases, flight, and revenue.
 
+![image](https://github.com/jumaa0/Data-Modelling/assets/126451388/7e84cd9d-e9fa-4f51-a896-b0261fa3530a)
+
+
 ### Reservation Data Mart
 - **Purpose**: Analyze reservation processes to understand customer booking behaviors and optimize revenue.
 - **Grain Level**: Ticket-reservation level, capturing revenue generated from each ticket reserved.
 - **Dimensions**: Passengers, aircraft, classes, airports, booking channels, passenger profiles, promotions, fare bases, flights, time.
 - **Facts**: Reservation details including date, time, passenger, aircraft, class, airport, ticket, channel, passenger profile, promotion, fare bases, flight, and revenue.
+
+
+![image](https://github.com/jumaa0/Data-Modelling/assets/126451388/cd04c1b4-9607-4e3a-b901-f57051845ff4)
 
 ### Customer Care Data Mart
 - **Purpose**: Analyze customer care interactions to improve customer service and resolve issues efficiently.
@@ -23,17 +29,24 @@ This project aims to provide comprehensive business intelligence solutions for a
 - **Dimensions**: Passengers, flights, employees, feedback types, time.
 - **Facts**: Details of customer care interactions including passenger information, feedback key, origin and destination airports, date, type of feedback, employee handling the interaction, confirmation key, flight key, ticket key, segment sequence number, description, and rating.
 
+![image](https://github.com/jumaa0/Data-Modelling/assets/126451388/2aacdf88-cfd0-41ce-b2d2-52f0d5e69fa2)
+
 ### Frequent Flyer Data Mart
 - **Purpose**: Analyze frequent flyer program data to understand passenger behavior and improve program effectiveness.
 - **Grain Level**: Passenger level, providing insights into points earned and redeemed.
 - **Dimensions**: Passengers, passenger profiles, properties, time.
 - **Facts**: Details of frequent flyer program activities including date, passenger information, passenger profile, property information, and points redeemed.
 
+
+![image](https://github.com/jumaa0/Data-Modelling/assets/126451388/fb43a955-a54c-45a2-baa0-f6540d25e409)
+
 ### Hotel Stay Data Mart
 - **Purpose**: Analyze hotel stay services to understand passenger preferences and improve service offerings.
 - **Grain Level**: Reservation level, providing information about the duration of stays.
 - **Dimensions**: Reservations, properties, sales channels, time.
 - **Facts**: Details of hotel stay services including reservation date, arrival and departure dates, passenger information, property information, confirmation number, ticket number, and number of nights.
+
+![image](https://github.com/jumaa0/Data-Modelling/assets/126451388/52e6548d-5e0e-40f8-a2b3-7755e9764b9f)
 
 ## Importance of Data Marts
 - Decision Making: Provide actionable insights for executive management to make informed decisions and improve operational efficiency.
@@ -42,7 +55,8 @@ This project aims to provide comprehensive business intelligence solutions for a
 - Operational Efficiency: Improve operational efficiency in terms of scheduling, capacity planning, and resource allocation.
 - Competitive Advantage: Provide a competitive advantage by identifying new opportunities and trends in the market.
 
-[Shcema](image.png)
+[Shcema](image.png):
+
 
 
 ## Implementation
