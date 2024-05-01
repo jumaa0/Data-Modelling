@@ -49,6 +49,8 @@ The data marts were built by implementing four steps:
 3. Define Dimensions: Created dimensions related to each business process to provide context and granularity to the data.
 4. Define Facts: Designed fact tables to capture key metrics and attributes for analysis and reporting purposes.
 
+## Documentation
+[Documentation.pdf]
 
 
 ## Conclusion
